@@ -1,5 +1,5 @@
 Summary:	ATI VCR1 codec for XAnim
-Summary(pl):	Kodek ATI VCR1 dla XAnima
+Summary(pl.UTF-8):   Kodek ATI VCR1 dla XAnima
 Name:		xanim-codec-vcr1
 Version:	1.0
 Release:	1
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 ATI VCR1 codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka ATI VCR1 dla XAnima.
 
 %prep
